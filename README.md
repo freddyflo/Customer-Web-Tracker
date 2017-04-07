@@ -11,6 +11,6 @@ The customer web tracker is a kind of CRM system which permits
 * Spring MVC
 * Hibernate
 * MYSQL
-* MYSQL WORKBENCH
+* MYSQL WorkBench
 * JSP
 * TomCat
