@@ -7,7 +7,7 @@ The customer web tracker is a kind of CRM system which permits
 * Editing existing user Info
 * Deletion of existing users
 
-### Technology
+## Technology
 * Spring MVC
 * Hibernate
 * MYSQL
