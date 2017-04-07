@@ -1,2 +1,16 @@
 # Customer-Web-Tracker
-Web Customer Info Management (Spring MVC and Hibernate)
+A project developed as part of a Sping MVC and Hibernate on www.udemy.com
+
+## Description
+The customer web tracker is a kind of CRM allows the following
+* Creation of a user profile 
+* Editing existing user Info
+* Deletion of existing users
+
+### Technology
+Spring MVC
+Hibernate
+MYSQL
+MYSQL WORKBENCH
+JSP
+TomCat
