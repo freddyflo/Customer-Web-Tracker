@@ -4,8 +4,8 @@ A project developed as part of a Spring MVC and Hibernate course on www.udemy.co
 ## Description
 The customer web tracker is a kind of CRM system which permits
 * Create a user profile 
-* Editing existing user Info
-* Deletion of existing users
+* Edit existing user Info
+* Delete existing users
 
 ## Technology
 * Spring MVC
